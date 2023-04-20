@@ -1,3 +1,5 @@
 Class One(){
+    void Main(){
 
+    }
 }
