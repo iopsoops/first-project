@@ -1,4 +1,4 @@
-Class One(){
+Class One12(){
     void Main(){
 
     }
